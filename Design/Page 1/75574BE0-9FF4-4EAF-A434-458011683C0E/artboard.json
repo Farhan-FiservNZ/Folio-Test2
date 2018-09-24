@@ -71,6 +71,10 @@
     {
       "class": "symbolInstance",
       "id": "64B23F15-5487-4DE2-8282-F692EC974DC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6F56671-6291-46A4-96E1-F0ECD251D16C"
     }
   ],
   "name": "Android",
