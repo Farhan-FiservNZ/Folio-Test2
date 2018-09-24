@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 130,
-    "width": 180,
-    "x": 82,
-    "y": 468
+    "height": 56,
+    "width": 97,
+    "x": 231,
+    "y": 346
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
