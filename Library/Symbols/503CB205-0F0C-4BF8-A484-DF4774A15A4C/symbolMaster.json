@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1553,
+  "do_objectID": "503CB205-0F0C-4BF8-A484-DF4774A15A4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 360,
+    "x": -602,
+    "y": 421
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "34B13D32-DE3E-4F2E-82AB-EA7A3976D3D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "266651D1-C4D4-4968-AC40-3BB6A59FF81D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2F93AB8-80E4-4750-BCBA-51DA710A5139"
+    },
+    {
+      "class": "text",
+      "id": "351B93D6-CE3C-44A3-9157-DA5822EE82EB"
+    },
+    {
+      "class": "text",
+      "id": "A6B23DCC-C973-4842-882D-55A0ABC2840A"
+    },
+    {
+      "class": "text",
+      "id": "E05D8F95-6822-497E-9521-4437389DB46C"
+    },
+    {
+      "class": "text",
+      "id": "C0EFC3C8-7659-44D8-8488-5C73B90C89EC"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 25,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "tab bar/4-item/1st-selected",
+  "nameIsFixed": true,
+  "originalObjectID": "503CB205-0F0C-4BF8-A484-DF4774A15A4C",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "18F925C7-1CEB-437B-9280-76C26FEB380E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
