@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "86145090-33BF-4058-810F-A427F83D4679",
+  "do_objectID": "BBDD4690-16B8-4E2B-8A6C-F4B8BFBE4CC9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "87D78B7E-5921-4995-90A9-ED7878D89420",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "621A18EF-DF9A-4ACA-921D-4AE8A9CB9CAE",
-    "height": 75,
-    "width": 104,
-    "x": 104,
-    "y": 401
+    "height": 130,
+    "width": 180,
+    "x": 82,
+    "y": 468
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "color/positive dark copy",
+  "name": "color/negative inverse",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,13 +37,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D2FFC16C-2EBB-4AC5-BD67-66C378E11FAD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6A7E6BF5-A4CE-4D0D-95A9-6FFB4715A24D",
+  "symbolID": "5029BBED-D63E-45F7-864D-3F0A33EA030D",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

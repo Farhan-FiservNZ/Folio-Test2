@@ -50,10 +50,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D492C3FB-BE77-46D1-8A51-057747635805"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F9EEA76A-A5F2-4D9C-9F39-72E93EBE7E7A"
     },
     {
@@ -67,6 +63,14 @@
     {
       "class": "symbolInstance",
       "id": "743420BB-E1F2-4118-9F07-AD42A503759E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBDD4690-16B8-4E2B-8A6C-F4B8BFBE4CC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64B23F15-5487-4DE2-8282-F692EC974DC4"
     }
   ],
   "name": "Android",
