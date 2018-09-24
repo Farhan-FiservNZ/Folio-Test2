@@ -1,0 +1,106 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1000,
+  "do_objectID": "5CF9D006-22B2-4999-BB7D-19D6465B01CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 360,
+    "x": -602,
+    "y": 493
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F93EE7A9-F122-4695-8040-5E7AB4096E10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3FF3A31-BA03-4876-A55E-F1BD6535636B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43EC381E-3DDD-4E67-AF3B-43D195DA1576"
+    },
+    {
+      "class": "text",
+      "id": "CF7B253D-2166-4A71-B5E5-5232423A1BCE"
+    },
+    {
+      "class": "text",
+      "id": "2F0BFE45-D4CC-4F6F-A3B9-763F7081B320"
+    },
+    {
+      "class": "text",
+      "id": "1BC48D0E-193B-48AE-991A-853BF46DE8EC"
+    },
+    {
+      "class": "text",
+      "id": "E08B4AE7-38D4-4F35-BE6C-4AD26746BCC6"
+    }
+  ],
+  "name": "tab bar/4-item/2nd-selected",
+  "nameIsFixed": true,
+  "originalObjectID": "503CB205-0F0C-4BF8-A484-DF4774A15A4C",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "31D9546D-6785-4624-880F-9878A5667A0B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
